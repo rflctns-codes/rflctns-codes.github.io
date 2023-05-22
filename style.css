@@ -6,6 +6,7 @@ body {
   margin: auto;
   width: auto;
   height: auto;
+  text-shadow: 2px 2px 5px black;
 }
 
 a:link {
