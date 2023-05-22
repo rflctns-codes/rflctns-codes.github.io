@@ -7,6 +7,9 @@ body {
   width: auto;
   height: auto;
   text-shadow: 0px 0px 5px black;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 a:link {
@@ -19,4 +22,13 @@ a:hover {
   color: red;
   background-color: transparent;
   text-decoration: none;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+   }
 }
