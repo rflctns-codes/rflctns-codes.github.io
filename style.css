@@ -53,6 +53,7 @@ hr.solid {
   margin-right: auto;
 }
 
-.img {
+img {
+  border-radius: 50%;
   text-shadow: 0px 0px 50px black;
 }
