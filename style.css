@@ -45,3 +45,7 @@ a:hover {
   text-decoration: underline;
   size: 24px;
 }
+
+p {
+  margin: auto;
+}
