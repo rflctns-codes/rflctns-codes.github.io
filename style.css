@@ -36,10 +36,12 @@ a:link {
   color: white;
   background-color: transparent;
   text-decoration: underline;
+  size: 24px;
 }
 
 a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
+  size: 24px;
 }
