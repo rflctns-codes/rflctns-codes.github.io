@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Headmates / ヘッドメイトズ</title>
+  </head>
+
+  <body>
+    <h1>Headmates / ヘッドメイトズ</h1>
+
+    <h3>Can you give us more information about some of your headmates?</h3><br>
+    <p>As the creator of some of my headmates—as well as a writer, obviously—I highly suggest you read my stories in order to gain more info on them!</p>
+    
+    <h3>ヘッドメトズの情報を教えてください。</h3>
+    <p>私のヘッドメイトズの作者として、また作家として、彼らの情報を得るために私の物語を読むことを強くお勧めします。</p>
+    
+    <hr class="solid">
+    
+  </body>
+</html>
