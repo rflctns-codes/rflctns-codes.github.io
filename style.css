@@ -14,7 +14,7 @@
 
 body {
   background-image: url("background.png");
-  text-align: center;
+  text-align: auto;
   color: white;
 
   font-family: Meiryo;
