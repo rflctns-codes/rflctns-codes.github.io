@@ -44,6 +44,6 @@ a:hover {
 }
 
 p {
-  margin: 128px;
+  margin: 16px 16px 128px 128px;
   size: 24px;
 }
