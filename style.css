@@ -46,3 +46,7 @@ p {
   margin-right: 75px;
   size: 24px;
 }
+
+hr.solid {
+  border-top: 3px solid #ffffff;
+}
