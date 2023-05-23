@@ -1,6 +1,10 @@
 @font-face {
   font-family: Meiryo;
   src: url("https://fonts.gstatic.com/s/mplus1p/v28/e3tmeuShHdiFyPFzBRrQRBEgfivGoOYmg_dUa_BuiDU9F33s7CtHVU4.5.woff2");
+  
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
 }
 
 @keyframes fadeInAnimation {
@@ -17,11 +21,6 @@ body {
   text-align: center;
   color: white;
 
-  font-family: Meiryo;
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  
   margin: auto;
   width: auto;
   height: auto;
