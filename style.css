@@ -49,6 +49,6 @@ p {
 
 hr.solid {
   border-top: 3px solid #ffffff;
-  margin-left: 75px;
-  margin-right: 75px;
+  margin-left: auto;
+  margin-right: auto;
 }
