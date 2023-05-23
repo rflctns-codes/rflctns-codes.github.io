@@ -2,7 +2,7 @@ body {
   background-image: url("background.png");
   text-align: center;
   color: white;
-  font-style: M Plus 1p;
+  font-style: "M Plus 1p";
   margin: auto;
   width: auto;
   height: auto;
