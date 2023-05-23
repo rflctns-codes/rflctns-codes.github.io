@@ -3,6 +3,9 @@ body {
   text-align: center;
   color: white;
   font-family: "M Plus 1p";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
   margin: auto;
   width: auto;
   height: auto;
