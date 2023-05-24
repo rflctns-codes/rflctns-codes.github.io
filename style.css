@@ -72,12 +72,20 @@ img {
   cursor: pointer;
 }
 
+.twitter:hover {
+  transform: scale(1.5);
+}
+
 .youtube {
   background-color: #ff0000;
   height: 30px;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+}
+
+.youtube:hover {
+  transform: scale(1.5);
 }
 
 .pixiv {
@@ -88,12 +96,20 @@ img {
   cursor: pointer;
 }
 
+.pixiv:hover {
+  transform: scale(1.5);
+}
+
 .pronounspage {
   background-color: #c41484;
   height: 30px;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+}
+
+.pronounspage:hover {
+  transform: scale(1.5);
 }
 
 .ao3 {
@@ -104,10 +120,18 @@ img {
   cursor: pointer;
 }
 
+.ao3:hover {
+  transform: scale(1.5);
+}
+
 .github {
   background-color: #000000;
   height: 30px;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+}
+
+.github:hover {
+  transform: scale(1.5);
 }
