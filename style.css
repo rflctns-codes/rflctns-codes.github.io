@@ -73,7 +73,7 @@ img {
 }
 
 .twitter:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
 
 .youtube {
@@ -85,7 +85,7 @@ img {
 }
 
 .youtube:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
 
 .pixiv {
@@ -97,7 +97,7 @@ img {
 }
 
 .pixiv:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
 
 .pronounspage {
@@ -109,7 +109,7 @@ img {
 }
 
 .pronounspage:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
 
 .ao3 {
@@ -121,7 +121,7 @@ img {
 }
 
 .ao3:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
 
 .github {
@@ -133,5 +133,5 @@ img {
 }
 
 .github:hover {
-  transform: scale(1.25);
+  transform: scale(1.125);
 }
