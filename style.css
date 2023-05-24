@@ -42,7 +42,7 @@ a:hover {
 
   transform: scale(1.25);
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
 }
 
 p {
@@ -73,7 +73,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
@@ -88,7 +88,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
@@ -103,7 +103,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
@@ -118,7 +118,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
@@ -133,7 +133,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
@@ -148,7 +148,7 @@ img {
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 
-  transition-duration: 0.5s;
+  transition-duration: 0.25s;
   padding: 24px;
 }
 
