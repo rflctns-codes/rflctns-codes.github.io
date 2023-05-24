@@ -1,17 +1,17 @@
 @keyframes fadeInAnimation {
   0% {
-      opacity: 0;
+    opacity: 0;
   }
   100% {
-      opacity: 1;
-   }
+    opacity: 1;
+  }
 }
 
 body {
   background-image: url("background.png");
   text-align: center;
   color: white;
-  
+
   font-family: Arial, Helvetica, sans-serif;
   margin: auto;
   width: auto;
@@ -60,4 +60,9 @@ img {
   size: fill;
   position: center;
   background-repeat: no-repeat;
+}
+
+.twitter {
+  background-color: #1da1f2;
+  border-radius: 25%;
 }
