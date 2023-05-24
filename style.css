@@ -63,33 +63,50 @@ img {
   background-repeat: no-repeat;
 }
 
-.button {
+.twitter {
+  background-color: #1da1f2;
   height: 30px;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
 }
 
-.twitter {
-  background-color: #1da1f2;
-}
-
 .youtube {
   background-color: #ff0000;
+  height: 30px;
+  position: center;
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
+  cursor: pointer;
 }
 
 .pixiv {
   background-color: #0096fa;
+  height: 30px;
+  position: center;
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
+  cursor: pointer;
 }
 
 .pronounspage {
   background-color: #c41484;
+  height: 30px;
+  position: center;
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
+  cursor: pointer;
 }
 
 .ao3 {
   background-color: #970000;
+  height: 30px;
+  position: center;
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
+  cursor: pointer;
 }
 
 .github {
   background-color: #000000;
+  height: 30px;
+  position: center;
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
+  cursor: pointer;
 }
