@@ -68,7 +68,6 @@ img {
   height: 30px;
   width: 25%;
   position: center;
-  display: inline-block;
 }
 
 .youtube {
@@ -76,7 +75,6 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  display: inline-block;
 }
 
 .pixiv {
@@ -84,7 +82,6 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  display: inline-block;
 }
 
 .pronounspage {
@@ -92,7 +89,6 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  display: inline-block;
 }
 
 .ao3 {
@@ -100,7 +96,6 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  display: inline-block;
 }
 
 .github {
@@ -108,5 +103,4 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  display: inline-block;
 }
