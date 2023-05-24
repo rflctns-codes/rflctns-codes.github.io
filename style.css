@@ -66,3 +66,28 @@ img {
   background-color: #1da1f2;
   border-radius: 25%;
 }
+
+.youtube {
+  background-color: #ff0000;
+  border-radius: 25%;
+}
+
+.pixiv {
+  background-color: #0096fa;
+  border-radius: 25%;
+}
+
+.pronounspage {
+  background-color: #c41484;
+  border-radius: 25%;
+}
+
+.ao3 {
+  background-color: #970000;
+  border-radius: 25%;
+}
+
+.github {
+  background-color: #000000;
+  border-radius: 25%;
+}
