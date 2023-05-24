@@ -41,6 +41,8 @@ a:hover {
   text-decoration: underline;
 
   transform: scale(1.25);
+
+  transition-duration: 3s;
 }
 
 p {
@@ -70,6 +72,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .twitter:hover {
@@ -82,6 +86,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .youtube:hover {
@@ -94,6 +100,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .pixiv:hover {
@@ -106,6 +114,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .pronounspage:hover {
@@ -118,6 +128,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .ao3:hover {
@@ -130,6 +142,8 @@ img {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+
+  transition-duration: 3s;
 }
 
 .github:hover {
