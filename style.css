@@ -64,37 +64,37 @@ img {
 
 .twitter {
   background-color: #1da1f2;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
   width: 250px;
 }
 
 .youtube {
   background-color: #ff0000;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
 }
 
 .pixiv {
   background-color: #0096fa;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
 }
 
 .pronounspage {
   background-color: #c41484;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
 }
 
 .ao3 {
   background-color: #970000;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
 }
 
 .github {
   background-color: #000000;
-  border-radius: 25%;
+  border-radius: 75%;
   height: 30px;
 }
