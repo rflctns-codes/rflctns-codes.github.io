@@ -36,7 +36,7 @@ a:visited {
 }
 
 a:hover {
-  color: red;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
   transform: scale(1.25, 1.25);
