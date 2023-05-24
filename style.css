@@ -63,50 +63,33 @@ img {
   background-repeat: no-repeat;
 }
 
-.twitter {
-  background-color: #1da1f2;
+.button {
   border-radius: 50%;
   height: 30px;
   position: center;
   box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
+}
+
+.twitter {
+  background-color: #1da1f2;
 }
 
 .youtube {
   background-color: #ff0000;
-  border-radius: 50%;
-  height: 30px;
-  position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
 }
 
 .pixiv {
   background-color: #0096fa;
-  border-radius: 50%;
-  height: 30px;
-  position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
 }
 
 .pronounspage {
   background-color: #c41484;
-  border-radius: 50%;
-  height: 30px;
-  position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
 }
 
 .ao3 {
   background-color: #970000;
-  border-radius: 50%;
-  height: 30px;
-  position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
 }
 
 .github {
   background-color: #000000;
-  border-radius: 50%;
-  height: 30px;
-  position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
 }
