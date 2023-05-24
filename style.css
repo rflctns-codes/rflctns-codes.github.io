@@ -55,7 +55,9 @@ hr.solid {
   border-top: 3px solid #ffffff;
   margin-left: auto;
   margin-right: auto;
-  width: 72px;
+  width: auto;
+  padding-left: 4em;
+  padding-right: 4em;
 }
 
 img {
