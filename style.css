@@ -67,7 +67,7 @@ img {
   border-radius: 50%;
   height: 30px;
   position: center;
-  box-shadow: 0 0 16px 0 rgba(0,0,0,1.0);
+  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
 }
 
 .twitter {
