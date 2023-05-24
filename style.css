@@ -7,16 +7,6 @@
   }
 }
 
-@keyframes hoverAnimation {
-  from {
-    scale: 1;
-  }
-
-  to {
-    scale: 1.25;
-  }
-}
-
 body {
   background-image: url("background.png");
   text-align: center;
@@ -50,9 +40,7 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 
-  animation-name: hoverAnimation;
-  animation-duration: 5s;
-  
+  transform: scale(1.5);
 }
 
 p {
