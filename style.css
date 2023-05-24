@@ -49,6 +49,10 @@ a:hover {
   color: white;
   background-color: transparent;
   text-decoration: underline;
+
+  animation-name: hoverAnimation;
+  animation-duration: 5s;
+  
 }
 
 p {
