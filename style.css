@@ -74,6 +74,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .twitter:hover {
@@ -88,6 +89,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .youtube:hover {
@@ -102,6 +104,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .pixiv:hover {
@@ -116,6 +119,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .pronounspage:hover {
@@ -130,6 +134,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .ao3:hover {
@@ -144,6 +149,7 @@ img {
   cursor: pointer;
 
   transition-duration: 0.5s;
+  padding: 24px;
 }
 
 .github:hover {
