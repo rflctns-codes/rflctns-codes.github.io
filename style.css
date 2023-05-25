@@ -103,10 +103,6 @@ button:hover {
   background-color: #970000;
 }
 
-.ao3:hover {
-  transform: scale(1.125);
-}
-
 .github {
   background-color: #000000;
 }
