@@ -75,6 +75,7 @@ button {
   text-decoration: none;
   transition-duration: 0.25s;
   display: inline-block;
+  padding: 1em;
   border-radius: 2.5em;
   margin: 1em;
 }
