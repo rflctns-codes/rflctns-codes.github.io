@@ -68,8 +68,7 @@ img {
   background-repeat: no-repeat;
 }
 
-.twitter {
-  background-color: #1da1f2;
+button {
   height: 3em;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
@@ -77,6 +76,11 @@ img {
   text-align: center;
   text-decoration: none;
   transition-duration: 0.25s;
+  display: inline-block;
+}
+
+.twitter {
+  background-color: #1da1f2;
 }
 
 .twitter:hover {
@@ -85,13 +89,6 @@ img {
 
 .youtube {
   background-color: #ff0000;
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
 }
 
 .youtube:hover {
@@ -100,13 +97,6 @@ img {
 
 .pixiv {
   background-color: #0096fa;
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
 }
 
 .pixiv:hover {
@@ -115,13 +105,6 @@ img {
 
 .pronounspage {
   background-color: #c41484;
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
 }
 
 .pronounspage:hover {
@@ -130,13 +113,6 @@ img {
 
 .ao3 {
   background-color: #970000;
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
 }
 
 .ao3:hover {
@@ -145,13 +121,6 @@ img {
 
 .github {
   background-color: #000000;
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
 }
 
 .github:hover {
