@@ -77,7 +77,7 @@ button {
   display: inline-block;
   padding: 1em;
   border-radius: 2.5em;
-  margin: 1em;
+  margin: auto;
 }
 
 button:hover {
