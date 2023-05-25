@@ -73,6 +73,7 @@ button {
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
   cursor: pointer;
+  text-align: center;
   text-decoration: none;
   transition-duration: 0.25s;
   display: inline;
