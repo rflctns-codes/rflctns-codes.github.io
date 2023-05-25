@@ -9,7 +9,7 @@
 
 body {
   background-image: url("background.png");
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
 
   text-align: center;
