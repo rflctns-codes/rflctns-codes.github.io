@@ -7,11 +7,7 @@
   }
 }
 
-body, html {
-  height: 100%;
-}
-
-.bg {
+html {
   background-image: url("background.png");
   height: auto;
   background-position: center;
