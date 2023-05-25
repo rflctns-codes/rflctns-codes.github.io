@@ -79,36 +79,24 @@ button {
   border-radius: 2.5em;
 }
 
-.twitter {
-  background-color: #1da1f2;
+button:hover {
+  transform: scale(1.125);
 }
 
-.twitter:hover {
-  transform: scale(1.125);
+.twitter {
+  background-color: #1da1f2;
 }
 
 .youtube {
   background-color: #ff0000;
 }
 
-.youtube:hover {
-  transform: scale(1.125);
-}
-
 .pixiv {
   background-color: #0096fa;
 }
 
-.pixiv:hover {
-  transform: scale(1.125);
-}
-
 .pronounspage {
   background-color: #c41484;
-}
-
-.pronounspage:hover {
-  transform: scale(1.125);
 }
 
 .ao3 {
@@ -121,8 +109,4 @@ button {
 
 .github {
   background-color: #000000;
-}
-
-.github:hover {
-  transform: scale(1.125);
 }
