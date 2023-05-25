@@ -76,6 +76,7 @@ button {
   text-decoration: none;
   transition-duration: 0.25s;
   display: inline;
+  padding: 1em;
 }
 
 .twitter {
