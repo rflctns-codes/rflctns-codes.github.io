@@ -75,7 +75,7 @@ button {
   cursor: pointer;
   text-decoration: none;
   transition-duration: 0.25s;
-  display: inline-block;
+  display: inline;
 }
 
 .twitter {
