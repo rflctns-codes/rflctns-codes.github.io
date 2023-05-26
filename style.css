@@ -26,9 +26,9 @@ html {
 
 body {
   margin: auto;
-  width: 5000%;
+  width: 50em;
   text-shadow: 0px 0px 10px black;
-  size: 100%;
+  size: 16px;
 }
 
 a:link {
