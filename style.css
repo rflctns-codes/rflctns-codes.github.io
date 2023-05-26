@@ -73,7 +73,7 @@ img {
   background-repeat: no-repeat;
 }
 
-button {
+.button {
   height: 3em;
   position: center;
   box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
@@ -88,7 +88,7 @@ button {
   color: white;
 }
 
-button:hover {
+.button:hover {
   transform: scale(1.125);
 }
 
