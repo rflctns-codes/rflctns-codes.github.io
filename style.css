@@ -96,6 +96,7 @@ button {
   border-radius: 2.5em;
   margin: auto;
   color: white;
+  border: none;
 }
 
 button:hover {
