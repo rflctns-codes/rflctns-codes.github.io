@@ -23,7 +23,7 @@ html {
 body {
   text-align: center;
   color: white;
-  font-family: "Montserrat", "Mplus 1p", "Hiragino Sans", "Hiragino Kaku Gothic Pro", "游ゴシック" , "游ゴシック体" , YuGothic , "Yu Gothic", "ＭＳ ゴシック" , "MS Gothic", sans-serif;
+  font-family: "Montserrat", "Mplus 1p", "Hiragino Sans", "Hiragino Kaku Gothic Pro", "游ゴシック", "游ゴシック体", YuGothic, "Yu Gothic", "ＭＳ ゴシック" , "MS Gothic", sans-serif;
   margin: auto;
   width: 50em;
   text-shadow: 0px 0px 10px black;
