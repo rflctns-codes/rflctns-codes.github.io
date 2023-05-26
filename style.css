@@ -61,17 +61,8 @@ hr.solid {
   margin-left: auto;
   margin-right: auto;
   width: 24em;
-  padding-top: 1.25 em;
-  padding-bottom: 1.25 em;
-}
-
-hr.dashed {
-  border-top: 0px solid #ffffff;
-  margin-top: auto;
-  margin-bottom: auto;
-  width: 1em;
-  padding-top: 1.25 em;
-  padding-bottom: 1.25 em;
+  padding-top: 1.25em;
+  padding-bottom: 1.25em;
 }
 
 img {
