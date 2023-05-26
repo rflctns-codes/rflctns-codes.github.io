@@ -85,7 +85,8 @@ button {
   padding-left: 2.5em;
   padding-right: 2.5em;
   border-radius: 2.5em;
-  margin: auto;
+  margin-left: 1em;
+  margin-right: 1em;
   color: white;
 }
 
