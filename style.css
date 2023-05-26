@@ -18,7 +18,9 @@ body {
   animation: fadeInAnimation ease 3s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-  
+
+  width: 100%;
+
   background-image: url("background.png");
   background-position: center;
   background-size: cover;
