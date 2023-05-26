@@ -61,7 +61,8 @@ hr.solid {
   margin-left: auto;
   margin-right: auto;
   width: 24em;
-  padding: 2em;
+  padding-top: 0.5 em;
+  padding-bottom: 0.5 em;
 }
 
 img {
