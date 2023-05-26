@@ -90,7 +90,7 @@ button {
   text-align: center;
   text-decoration: none;
   transition-duration: 0.25s;
-  display: inline;
+  display: block;
   padding-left: 1em;
   padding-right: 1em;
   border-radius: 2.5em;
