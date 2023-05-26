@@ -17,10 +17,14 @@ body {
   animation: fadeInAnimation ease 3s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-  
+
   background-image: url("background.png");
+  background-attachment: fixed;
   background-position: center;
   background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-repeat: no-repeat;
   font-family: "Montserrat", "Mplus 1p", "Hiragino Sans", "Hiragino Kaku Gothic Pro", "游ゴシック", "游ゴシック体", "YuGothic", "Yu Gothic", "ＭＳ ゴシック" , "MS Gothic", sans-serif;
 }
