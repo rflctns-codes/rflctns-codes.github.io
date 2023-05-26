@@ -13,7 +13,7 @@ html {
   animation-fill-mode: forwards;
   
   background-image: url("background.png");
-  max-width: 100%;
+  width: 100%;
   height: 100%;
   background-position: center;
   background-size: cover;
