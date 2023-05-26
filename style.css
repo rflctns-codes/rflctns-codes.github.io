@@ -8,6 +8,10 @@
 }
 
 html {
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  
   background-image: url("background.png");
   max-width: 100%;
   height: 100%;
@@ -23,10 +27,6 @@ body {
   margin: auto;
   width: 50em;
   text-shadow: 0px 0px 10px black;
-
-  animation: fadeInAnimation ease 3s;
-  animation-iteration-count: 1;
-  animation-fill-mode: forwards;
 }
 
 a:link {
