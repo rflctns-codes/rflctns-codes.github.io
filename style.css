@@ -46,6 +46,8 @@ a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
+
+  transition-duration: 0.25s;
 }
 
 hr.solid {
