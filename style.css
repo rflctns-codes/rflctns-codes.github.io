@@ -83,6 +83,7 @@ button {
   padding: 0.5em;
   border-radius: 2.5em;
   margin: auto;
+  color: white;
 }
 
 button:hover {
