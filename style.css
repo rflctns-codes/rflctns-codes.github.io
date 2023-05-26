@@ -43,12 +43,9 @@ a:visited {
 }
 
 a:hover {
-  color: white;
+  color: red;
   background-color: transparent;
   text-decoration: underline;
-
-  font-size: 26px;
-  transition-duration: 0.25s;
 }
 
 hr.solid {
