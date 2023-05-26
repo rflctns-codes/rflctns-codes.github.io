@@ -52,12 +52,12 @@ a:hover {
 }
 
 hr.solid {
-  border-top: 3px solid #ffffff;
-  width: 24em;
+  border-top: 18.75% solid #ffffff;
+  width: 2400%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 1.25em;
-  margin-bottom: 1.25em;
+  margin-top: 125%;
+  margin-bottom: 125%;
 }
 
 img {
