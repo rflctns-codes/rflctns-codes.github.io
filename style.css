@@ -33,24 +33,18 @@ a:link {
   color: white;
   background-color: transparent;
   text-decoration: underline;
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 
 a:visited {
   color: white;
   background-color: transparent;
   text-decoration: none;
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 
 a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
-  margin-top: 1em;
-  margin-bottom: 1em;
 
   transition-duration: 0.25s;
 }
