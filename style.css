@@ -45,7 +45,7 @@ a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
-  transform: scale(1.125);
+  size: 30px;
   transition-duration: 0.25s;
 }
 
