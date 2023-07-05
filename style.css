@@ -45,7 +45,7 @@ a:hover {
   color: white;
   background-color: transparent;
   text-decoration: underline;
-  size: 30px;
+  font-size: 30px;
   transition-duration: 0.25s;
 }
 
