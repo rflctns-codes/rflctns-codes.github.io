@@ -45,7 +45,6 @@ a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
-
   transition-duration: 0.25s;
 }
 
@@ -64,25 +63,4 @@ img {
   size: fill;
   position: center;
   background-repeat: no-repeat;
-}
-
-button {
-  height: 3em;
-  position: center;
-  box-shadow: 0 0 16px 4px rgba(0,0,0,1.0);
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition-duration: 0.25s;
-  display: inline;
-  padding-left: 1em;
-  padding-right: 1em;
-  border-radius: 2.5em;
-  margin: 0.5em;
-  color: white;
-  border: none;
-}
-
-button:hover {
-  transform: scale(1.125);
 }
