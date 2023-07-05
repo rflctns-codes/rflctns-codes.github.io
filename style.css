@@ -86,35 +86,3 @@ button {
 button:hover {
   transform: scale(1.125);
 }
-
-.twitter {
-  background-color: #1da1f2;
-}
-
-.instagram {
-  background-color: #d62976;
-}
-
-.youtube {
-  background-color: #ff0000;
-}
-
-.pixiv {
-  background-color: #0096fa;
-}
-
-.pronounscc {
-  background-color: #198754;
-}
-
-.ao3 {
-  background-color: #970000;
-}
-
-.github {
-  background-color: #000000;
-}
-
-.mastodon {
-  background-color: #563acc;
-}
