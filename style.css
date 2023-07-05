@@ -42,7 +42,7 @@ a:visited {
 }
 
 a:hover {
-  color: red;
+  color: #e62b36;
   background-color: transparent;
   text-decoration: underline;
   size: 30px;
