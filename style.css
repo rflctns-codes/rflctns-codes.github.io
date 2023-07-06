@@ -52,7 +52,7 @@ a:hover {
 }
 
 hr.solid {
-  border-top: 3px solid white;
+  border-top: 3px solid black;
   width: 24em;
   margin-left: auto;
   margin-right: auto;
