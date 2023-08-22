@@ -72,5 +72,6 @@ img {
 .textbox {
   background-color: #e62b36;
   width: auto;
-  margin: 128px;
+  margin-left: 128px;
+  margin-right: 128px;
 }
