@@ -71,6 +71,5 @@ img {
 
 .textbox {
   background-color: #e62b36;
-  text-align: center;
-  width: fit-content;
+  width: auto;
 }
