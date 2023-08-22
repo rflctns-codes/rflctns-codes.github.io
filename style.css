@@ -69,9 +69,7 @@ img {
   margin: 24px;
 }
 
-.index {
+.textbox {
   background-color: #e62b36;
   width: fit-content;
-  margin-left: 25%;
-  margin-right: 25%;
 }
