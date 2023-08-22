@@ -68,3 +68,8 @@ img {
   background-repeat: no-repeat;
   margin: 24px;
 }
+
+.index {
+  background-color: #e62b36;
+  width: auto;
+}
