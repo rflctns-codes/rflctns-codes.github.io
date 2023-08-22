@@ -71,5 +71,6 @@ img {
 
 .index {
   background-color: #e62b36;
-  width: auto;
+  margin-left: 50%;
+  margin-right: 50%;
 }
